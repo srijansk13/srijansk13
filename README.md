@@ -24,6 +24,7 @@ I love building modern UI websites 🚀
 <a href="https://github.com/srijansk13">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-kumar-sk13)
 </p>
 
 ---
