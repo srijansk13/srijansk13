@@ -67,7 +67,7 @@ Exploring backend workflows, REST APIs, database integration, and scalable web d
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://srijan-dev.vercel.app/resume/Srijan_Kumar_Goud_Resume.pdf">
+  <a href="https://srijan-dev.vercel.app/resume/Srijan_kumar.Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
